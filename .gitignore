@@ -1,0 +1,5 @@
+/files/*
+/cache/*
+/store/*
+/images/avatars/upload/*
+config.local.php
